@@ -1,0 +1,14 @@
+
+.ipynb_checkpoints/cms_transformer-checkpoint.ipynb
+color-profile-correction/color-profile-correction/.ipynb_checkpoints/skin-crop-color-corrected-checkpoint.tif
+*.tif
+.gitattributes
+*.zip
+*.ipynb
+*.zip
+*.icc
+*.icc
+*.tif
+*.mp4
+*.svs
+*.icm
