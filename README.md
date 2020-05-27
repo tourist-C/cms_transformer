@@ -13,4 +13,4 @@ Usage:
 
 Result:
 
-![](demo.png)
+![](demo.jpg)
