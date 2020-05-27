@@ -19,3 +19,4 @@ color-profile-correction/color-profile-correction/destination color profile/sRGB
 color-profile-correction/color-profile-correction/source color profile/leica_scanner.icm
 config_builder.py
 parser.py
+.ipynb_checkpoints/demo-checkpoint.jpg
