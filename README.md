@@ -1,4 +1,4 @@
-# pil_cms
+# Color Profile Transformer
  
 todo:
 dockerize
