@@ -6,9 +6,16 @@ color-profile-correction/color-profile-correction/.ipynb_checkpoints/skin-crop-c
 *.zip
 *.ipynb
 *.zip
-*.icc
-*.icc
+# *.icc
+# *.icc
 *.tif
 *.mp4
 *.svs
-*.icm
+# *.icm
+*.pyc
+color-profile-correction/color-profile-correction/destination color profile/spare/GIMP built-in sRGB.icc
+color-profile-correction/color-profile-correction/destination color profile/spare/sRGB2014.icc
+color-profile-correction/color-profile-correction/destination color profile/sRGB_v4_ICC_preference.icc
+color-profile-correction/color-profile-correction/source color profile/leica_scanner.icm
+config_builder.py
+parser.py
