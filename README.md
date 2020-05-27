@@ -4,7 +4,7 @@ todo:
 dockerize
 
 Installation:
-
+`git clone git@github.com:tourist-C/cms_transformer.git'
 
 Usage:
 
