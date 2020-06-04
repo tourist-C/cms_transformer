@@ -20,3 +20,5 @@ color-profile-correction/color-profile-correction/source color profile/leica_sca
 config_builder.py
 parser.py
 .ipynb_checkpoints/demo-checkpoint.jpg
+
+leica_scanner.icm
